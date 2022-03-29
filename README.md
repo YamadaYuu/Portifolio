@@ -2,7 +2,11 @@
 
 ## Introdução
 
-Formada no ensino técnico em Automação Industrial na ETEC em 2014, ingressei em Engenharia da Computação em 2016 na ETEP. Entre 2018 e 2019, estagiei por nove meses na empresa Compsis. Entrei na FATEC no primeiro semestre de 2020 e aqui tenho participado do desenvolvimento de vários projetos.
+Durante o 9º ano do ensino fundamental em um colégio da rede Objetivo, tive aulas de robótica e me interessei pela área de tecnologia. As aulas envolviam a montagem e programação dos robôs da Lego, Mindstorms.
+
+Formada no ensino técnico em Automação Industrial na ETEC em 2014, ingressei em Engenharia da Computação em 2016 na ETEP. O ensino técnico me proporcionou conhecimentos básicos na programação em projetos com arduíno. Nessa época já mexia com css e um pouco de html por hobbie, criando styles para sites. Em 2017, participei da equipe de Baja da ETEP. Nós tínhamos a estrutura e toda a documentação pronta, mas não chegamos a terminar a montagem do veículo para competir por questões pessoais.
+
+Entre 2018 e 2019, estagiei por nove meses na empresa Compsis. Durante esse estágio, comecei a analizar e testar códigos em java, javascript e html. Vi também frameworks como spring e vue.js.  Entrei na FATEC no primeiro semestre de 2020 e tenho participado do desenvolvimento de vários projetos desde então.
 
 ## Meus Projetos
 
