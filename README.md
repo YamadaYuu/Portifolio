@@ -15,7 +15,7 @@
 <p align="justify">A ideia era uma melhoria tecnológica para o ambiente residencial. Minha equipe propôs um aplicativo que ligasse luzes, alarme e aquecedor de banheira. Com uma maquete, foi possível simular a instalação das luzes externas por sensor de luminosidade e das internas, controladas pelo aplicativo mobile. </p>
 
 #### Tecnologias Utilizadas
-<p>Arduíno: Para a parte física do projeto, ligamos sensores de luminosidade e temperatura, teclado numérico e um motor que representaria o aquecedor.
+<p align="justify">Arduíno: Para a parte física do projeto, ligamos sensores de luminosidade e temperatura, teclado numérico e um motor que representaria o aquecedor.
 App Inventor: Onde foi desenvolvido o aplicativo que controla a iluminação interna, regula a temperatura desejada da água e liga o motor.
 Programação em C: Linguagem usada para controlar o arduíno. 
 Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o arduíno antes de termos os componentes físicos.</p>
