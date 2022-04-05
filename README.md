@@ -22,7 +22,7 @@ Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o
 
 #### Contribuições Pessoais
  
-<img align="left" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="300px">
+<img align="center" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="300px">
 <p>Montei os circuitos do motor aquecedor de água e o sensor de luminosidade. A baixo, pode-se ver um trecho do código que escrevi para ler o sensor de temperatura (A0) e por ele desligar o motor aquecedor (A1) automaticamente ao chegar a uma certa temperatura.</p>
  
 
