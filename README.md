@@ -21,9 +21,10 @@ Programação em C: Linguagem usada para controlar o arduíno.
 Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o arduíno antes de termos os componentes físicos.</p>
 
 #### Contribuições Pessoais
+ 
+<img align="left" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="300px">
 <p>Montei os circuitos do motor aquecedor de água e o sensor de luminosidade. A baixo, pode-se ver um trecho do código que escrevi para ler o sensor de temperatura (A0) e por ele desligar o motor aquecedor (A1) automaticamente ao chegar a uma certa temperatura.</p>
  
-  <img src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="300px">
 
 #### Hard Skills
 - Programação em C - Sei fazer com autonomia.
@@ -35,12 +36,19 @@ Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o
  Entender as dificuldades de cada indivíduo e guiá-los para o bom entendimento do projeto.</p>
 
 ### 2020/2º Semestre - RoadTracker
-<p align="justify">No segundo semestre, tivemos como cliente a empresa IACIT. O problema reportado era a falta de controle da jornada dos motoristas de caminhão. Não havia como saber o paradeiro da mercadoria até que esta chegasse ao seu destino. Para melhorar esse controle, criamos um aplicativo para computador de bordo. Nele, o motorista pode iniciar sua jornada e manter os superiores atualizados sobre sua viagem de forma prática e rápida.</p>
+<p align="justify">No segundo semestre, tivemos como cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.</p>
+<p align="justify">O problema reportado era a falta de controle da jornada dos motoristas de caminhão. Não havia como saber o paradeiro da mercadoria até que esta chegasse ao seu destino. Para melhorar esse controle, criamos um aplicativo para computador de bordo. Nele, o motorista pode iniciar sua jornada e manter os superiores atualizados sobre sua viagem de forma prática e rápida.</p>
 <p align="justify"></p>
  
  <li><a href="https://github.com/Syank/PI-JornadaDeMotoristas">Repositório do projeto</a></li>
  
- #### Contribuições Pessoais
+#### Tecnologias Utilizadas
+<p align="justify">Java: Todo o back-end foi feito em java.
+JavaFX com SceneBuilder: Foi utilizado o framework JavaFX para o front-end páginas.
+PostgreSQL: Banco de dados para armazenamento dos usuários do sistema.
+Hibernate: Persistência de dados do banco.</p>
+ 
+#### Contribuições Pessoais
 
 ### 2021/1º Semestre - SkillShare
 Mesmo formato
