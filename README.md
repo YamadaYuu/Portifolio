@@ -12,10 +12,10 @@
 
 ### 2020/1º Semestre - Casa Automatizada
 <p align="justify">Como primeiro projeto, tivemos a automatização de funções domésticas cotidianas de uma casa. Diferente dos projetos seguintes, não foi proveniente de um problema relatado por uma empresa externa. Criada no dia 2 de março de 2006, a FATEC de São José dos Campos é uma faculdade pública estadual que atualmente oferece oito cursos tecnólogos gratuitos. Inicialmente situada dentro do Parque Tecnológico, a FATEC se encontra próxima ao mesmo local, no distrito Eugênio de Melo.</p>
-<p align="justify">A ideia era uma melhoria tecnológica para o ambiente residencial. Minha equipe propôs um aplicativo que ligasse luzes, alarme e aquecedor de banheira. Com uma maquete, foi possível simular a instalação das luzes externas por sensor de luminosidade e das internas, controladas pelo aplicativo mobile. </p>
+<p align="justify">A ideia era uma melhoria tecnológica para o ambiente residencial. Minha equipe propôs um aplicativo que ligasse luzes, alarme e aquecedor de banheira. Com a maquete de uma casa, foi possível simular a instalação das luzes externas, ativadas por sensor de luminosidade, e das internas, controladas pelo aplicativo mobile. A abertura de porta com por senha foi representado por leds que se ascendiam quando a senha correta era inserida no teclado físico ligado ao arduíno.</p>
 
 #### Tecnologias Utilizadas
-<p align="justify">Arduíno: Para a parte física do projeto, ligamos sensores de luminosidade e temperatura, teclado numérico e um motor que representaria o aquecedor.
+<p align="justify">Arduíno: Para a parte física do projeto, ligamos sensores de luminosidade e temperatura, teclado numérico e um motor.
 App Inventor: Onde foi desenvolvido o aplicativo que controla a iluminação interna, regula a temperatura desejada da água e liga o motor.
 Programação em C: Linguagem usada para controlar o arduíno. 
 Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o arduíno antes de termos os componentes físicos.</p>
@@ -23,17 +23,16 @@ Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o
 #### Contribuições Pessoais
  
 <img align="center" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="300px">
-<p>Montei os circuitos do motor aquecedor de água e o sensor de luminosidade. A baixo, pode-se ver um trecho do código que escrevi para ler o sensor de temperatura (A0) e por ele desligar o motor aquecedor (A1) automaticamente ao chegar a uma certa temperatura.</p>
+<p>Montei os circuitos (tanto físico quanto no tinkercad) do motor aquecedor de água e o sensor de luminosidade. Também escrevi um trecho do código para ler este sensor e o de temperatura. Juntamente com outro integrante, instalamos as luzes dentro e ao redor da maquete e testamos a integração do arduíno com o aplicativo. Testei várias portas e jumpers, pois alguns estavam queimados.</p>
  
 
 #### Hard Skills
-- Programação em C - Sei fazer com autonomia.
+- Programação de ardupino em C - Sei fazer com autonomia.
 - Programação para dispositivos móveis - Sei fazer com ajuda.
 - Montagem de circuitos básicos - Sei fazer com autonomia.
 
 #### Soft Skills
-<p>Como master, melhorei minhas habilidades de gerenciamento de grupo. 
- Entender as dificuldades de cada indivíduo e guiá-los para o bom entendimento do projeto.</p>
+<p>Como master, melhorei minhas habilidades de gerenciamento de grupo. Além de balancear as tarefas com o conhecimento técnico de cada integrante do grupo, também precisei entender as dificuldades de cada integrante para que conseguissem se envolver mais no projeto. Em um determinado momento, como estávamos em período de pandemia, cheguei a conversar com o pai de um dos integrantes para explicar sobre o projeto e pedir que auxiliasse a pessoa em suas atividades.</p>
 
 ### 2020/2º Semestre - RoadTracker
 <p align="justify">No segundo semestre, tivemos como cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.</p>
@@ -49,7 +48,8 @@ PostgreSQL: Banco de dados para armazenamento dos usuários do sistema.
 Hibernate: Persistência de dados do banco.</p>
  
 #### Contribuições Pessoais
-
+ <p align="justify">Participei de grande parte do front-end e design do aplicativo. Fiz o tratamento das imagens, criação da logo, participação em wireframes e front-end de telas e adicionei o redirecionamento de páginas.</p>
+ 
 ### 2021/1º Semestre - SkillShare
 Mesmo formato
 
