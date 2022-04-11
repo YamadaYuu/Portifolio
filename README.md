@@ -48,7 +48,12 @@ PostgreSQL: Banco de dados para armazenamento dos usuários do sistema.
 Hibernate: Persistência de dados do banco.</p>
  
 #### Contribuições Pessoais
- <p align="justify">Participei de grande parte do front-end e design do aplicativo. Fiz o tratamento das imagens, criação da logo, participação em wireframes e front-end de telas e adicionei o redirecionamento de páginas.</p>
+ <p align="justify">Participei de grande parte do front-end e design do aplicativo. Fiz o tratamento das imagens, criação da logo, participação em wireframes e estrutura das telas e adicionei o redirecionamento de páginas.</p>
+ 
+#### Hard Skills
+Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
+JavaFX: Primeiro contato com o framework. Consigo criar telas 
+#### Soft Skills
  
 ### 2021/1º Semestre - SkillShare
 Mesmo formato
