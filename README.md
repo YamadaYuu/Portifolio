@@ -48,12 +48,14 @@ PostgreSQL: Banco de dados para armazenamento dos usuários do sistema.
 Hibernate: Persistência de dados do banco.</p>
  
 #### Contribuições Pessoais
- <p align="justify">Participei de grande parte do front-end e design do aplicativo. Fiz o tratamento das imagens, criação da logo, participação em wireframes e estrutura das telas e adicionei o redirecionamento de páginas.</p>
+<p align="justify">Participei de grande parte do front-end e design do aplicativo. Fiz parte da documentação, geração do burndown e wireframes, estrutura das telas, estruturação do banco de dados e o redirecionamento de páginas. Encontrei um recurso melhor que o do semestre anterior e consegui resultados mais satisfatórios na produção de gifs e vídeo de apresentação.</p>
  
 #### Hard Skills
-Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
-JavaFX: Primeiro contato com o framework. Consigo criar telas 
+<p>Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
+JavaFX: Primeiro contato com o framework. Consigo criar telas no figma, que era uma tecnologia nova para mim.</p>
+
 #### Soft Skills
+<p align="justify">Como sempre, trabalho em equipe não é fácil pois temos pensamentos e níveis de conhecimento diferentes. Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o bom desenvolvimento do projeto. </p>
  
 ### 2021/1º Semestre - SkillShare
 Mesmo formato
