@@ -32,7 +32,7 @@ Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o
 - Montagem de circuitos básicos - Sei fazer com autonomia.
 
 #### Soft Skills
-<p>Como master, melhorei minhas habilidades de gerenciamento de grupo. Além de balancear as tarefas com o conhecimento técnico de cada integrante do grupo, também precisei entender as dificuldades de cada integrante para que conseguissem se envolver mais no projeto. Em um determinado momento, como estávamos em período de pandemia, cheguei a conversar com o pai de um dos integrantes para explicar sobre o projeto e pedir que auxiliasse a pessoa em suas atividades.</p>
+<p align="justify">Como master, melhorei minhas habilidades de gerenciamento de grupo. Além de balancear as tarefas com o conhecimento técnico de cada integrante do grupo, também precisei entender as dificuldades de cada integrante para que conseguissem se envolver mais no projeto. Em um determinado momento, como estávamos em período de pandemia, cheguei a conversar com o pai de um dos integrantes para explicar sobre o projeto e pedir que auxiliasse a pessoa em suas atividades.</p>
 
 ### 2020/2º Semestre - RoadTracker
 <p align="justify">No segundo semestre, tivemos como cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.</p>
@@ -51,14 +51,15 @@ Hibernate: Persistência de dados do banco.</p>
 <p align="justify">Participei de grande parte do front-end e design do aplicativo. Fiz parte da documentação, geração do burndown e wireframes, estrutura das telas, estruturação do banco de dados e o redirecionamento de páginas. Encontrei um recurso melhor que o do semestre anterior e consegui resultados mais satisfatórios na produção de gifs e vídeo de apresentação.</p>
  
 #### Hard Skills
-<p>Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
-JavaFX: Primeiro contato com o framework. Consigo criar telas no figma, que era uma tecnologia nova para mim.</p>
+- Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
+- JavaFX: Primeiro contato com o framework. Consigo criar telas no figma, que era uma tecnologia nova para mim.
 
 #### Soft Skills
 <p align="justify">Como sempre, trabalho em equipe não é fácil pois temos pensamentos e níveis de conhecimento diferentes. Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o bom desenvolvimento do projeto. </p>
  
 ### 2021/1º Semestre - SkillShare
-Mesmo formato
+<p align="justify">Neste semestre, a empresa parceira foi a Ness Health. Um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores. O problema relatado foi que, apesar de existirem muitas plataformas de ensino on-line, elas são pagas, removendo assim o direito à educação de todos.</p>
+<p align="justify">A solução proposta foi o desenvolvimento de um LMS (Learning Management System) gratuito para os funcionários matriculados, no intuito de democratizar a educação.</p>
 
 ### 2021/2º Semestre - AirplaneDocGenerator
 Mesmo formato
