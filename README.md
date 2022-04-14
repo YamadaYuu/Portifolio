@@ -22,7 +22,7 @@ Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o
 
 #### Contribuições Pessoais
  
-<img align="center" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="300px">
+<img align="center" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="0px">
 <p>Montei os circuitos (tanto físico quanto no tinkercad) do motor aquecedor de água e o sensor de luminosidade. Também escrevi um trecho do código para ler este sensor e o de temperatura. Juntamente com outro integrante, instalamos as luzes dentro e ao redor da maquete e testamos a integração do arduíno com o aplicativo. Testei várias portas e jumpers, pois alguns estavam queimados.</p>
  
 
@@ -60,6 +60,10 @@ Hibernate: Persistência de dados do banco.</p>
 ### 2021/1º Semestre - SkillShare
 <p align="justify">Neste semestre, a empresa parceira foi a Ness Health. Um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores. O problema relatado foi que, apesar de existirem muitas plataformas de ensino on-line, elas são pagas, removendo assim o direito à educação de todos.</p>
 <p align="justify">A solução proposta foi o desenvolvimento de um LMS (Learning Management System) gratuito para os funcionários matriculados, no intuito de democratizar a educação.</p>
+ 
+ <li><a href="https://github.com/giovannialves01/API-RGBA">Repositório do projeto</a></li>
 
 ### 2021/2º Semestre - AirplaneDocGenerator
 Mesmo formato
+
+### 2022/1º Semestre - FolConn
