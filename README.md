@@ -15,24 +15,22 @@
 <p align="justify">A ideia era uma melhoria tecnológica para o ambiente residencial. Minha equipe propôs um aplicativo que ligasse luzes, alarme e aquecedor de banheira. Com a maquete de uma casa, foi possível simular a instalação das luzes externas, ativadas por sensor de luminosidade, e das internas, controladas pelo aplicativo mobile. A abertura de porta com por senha foi representado por leds que se ascendiam quando a senha correta era inserida no teclado físico ligado ao arduíno.</p>
 
 #### Tecnologias Utilizadas
-<p align="justify">Arduíno: Para a parte física do projeto, ligamos sensores de luminosidade e temperatura, teclado numérico e um motor.
-App Inventor: Onde foi desenvolvido o aplicativo que controla a iluminação interna, regula a temperatura desejada da água e liga o motor.
-Programação em C: Linguagem usada para controlar o arduíno. 
-Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o arduíno antes de termos os componentes físicos.</p>
+- Arduíno: Para a parte física do projeto, ligamos sensores de luminosidade e temperatura, teclado numérico e um motor.
+- App Inventor: Onde foi desenvolvido o aplicativo que controla a iluminação interna, regula a temperatura desejada da água e liga o motor.
+- Programação em C: Linguagem usada para controlar o arduíno. 
+- Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o arduíno antes de termos os componentes físicos.
 
 #### Contribuições Pessoais
- 
-<img align="center" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="0px">
 <p>Montei os circuitos (tanto físico quanto no tinkercad) do motor aquecedor de água e o sensor de luminosidade. Também escrevi um trecho do código para ler este sensor e o de temperatura. Juntamente com outro integrante, instalamos as luzes dentro e ao redor da maquete e testamos a integração do arduíno com o aplicativo. Testei várias portas e jumpers, pois alguns estavam queimados.</p>
  
-
 #### Hard Skills
 - Programação de ardupino em C - Sei fazer com autonomia.
 - Programação para dispositivos móveis - Sei fazer com ajuda.
 - Montagem de circuitos básicos - Sei fazer com autonomia.
 
 #### Soft Skills
-<p align="justify">Como master, melhorei minhas habilidades de gerenciamento de grupo. Além de balancear as tarefas com o conhecimento técnico de cada integrante do grupo, também precisei entender as dificuldades de cada integrante para que conseguissem se envolver mais no projeto. Em um determinado momento, como estávamos em período de pandemia, cheguei a conversar com o pai de um dos integrantes para explicar sobre o projeto e pedir que auxiliasse a pessoa em suas atividades.</p>
+- Liderança: Como master, melhorei minhas habilidades de gerenciamento de grupo. Além de balancear as tarefas com o conhecimento técnico de cada integrante do grupo, também precisei entender as dificuldades de cada integrante para que conseguissem se envolver mais no projeto. 
+- Empatia: Em um determinado momento, como estávamos em período de pandemia, cheguei a conversar com o pai de um dos integrantes para explicar sobre o projeto e pedir que auxiliasse a pessoa em suas atividades.
 
 ### 2020/2º Semestre - RoadTracker
 <p align="justify">No segundo semestre, tivemos como cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.</p>
@@ -42,26 +40,30 @@ Tinkercad: Plataforma onde foi desenvolvido e testado o esquema e código para o
  <li><a href="https://github.com/Syank/PI-JornadaDeMotoristas">Repositório do projeto</a></li>
  
 #### Tecnologias Utilizadas
-<p align="justify">Java: Todo o back-end foi feito em java.
-JavaFX com SceneBuilder: Foi utilizado o framework JavaFX para o front-end páginas.
-PostgreSQL: Banco de dados para armazenamento dos usuários do sistema.
-Hibernate: Persistência de dados do banco.</p>
- 
+- Java: Todo o back-end foi feito em java.
+- JavaFX com SceneBuilder: Foi utilizado o framework JavaFX para o front-end páginas.O html da página é automaticamente gerado.
+- PostgreSQL: Banco de dados para armazenamento dos usuários do sistema.
+- Hibernate: Persistência de dados do banco.
+
 #### Contribuições Pessoais
-<p align="justify">Participei de grande parte do front-end e design do aplicativo. Fiz parte da documentação, geração do burndown e wireframes, estrutura das telas, estruturação do banco de dados e o redirecionamento de páginas. Encontrei um recurso melhor que o do semestre anterior e consegui resultados mais satisfatórios na produção de gifs e vídeo de apresentação.</p>
+<p align="justify">Participei de parte do front-end e design do aplicativo, onde gerei os wireframes no figma à partir de vários designs feitos e discutidos em reunião com o grupo. Fiz parte das telasjuntamente com redirecionamento de todas as páginas e modelagem do banco de dados. Houve várias mudanças no modelo do banco de dados à medida que funções eram adicionadas ao sistema. Encontrei um recurso melhor que o do semestre anterior e consegui resultados mais satisfatórios na produção de gifs e vídeo de apresentação.</p>
  
 #### Hard Skills
 - Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
 - JavaFX: Primeiro contato com o framework. Consigo criar telas no figma, que era uma tecnologia nova para mim.
+- PostgreSQL: Um banco de dados relacional foi escolhido para armazenar as informações do usuário.
+- Hibernate: Para persistência dos dados.
 
 #### Soft Skills
-<p align="justify">Como sempre, trabalho em equipe não é fácil pois temos pensamentos e níveis de conhecimento diferentes. Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o bom desenvolvimento do projeto. </p>
+- Comunicação: Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente.
  
 ### 2021/1º Semestre - SkillShare
 <p align="justify">Neste semestre, a empresa parceira foi a Ness Health. Um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores. O problema relatado foi que, apesar de existirem muitas plataformas de ensino on-line, elas são pagas, removendo assim o direito à educação de todos.</p>
 <p align="justify">A solução proposta foi o desenvolvimento de um LMS (Learning Management System) gratuito para os funcionários matriculados, no intuito de democratizar a educação.</p>
  
- <li><a href="https://github.com/giovannialves01/API-RGBA">Repositório do projeto</a></li>
+#### Tecnologias Utilizadas
+ 
+<li><a href="https://github.com/giovannialves01/API-RGBA">Repositório do projeto</a></li>
 
 ### 2021/2º Semestre - AirplaneDocGenerator
  
@@ -70,3 +72,4 @@ Hibernate: Persistência de dados do banco.</p>
 ### 2022/1º Semestre - FolConn
 
  <li><a href="https://github.com/barbaraport/api-claradb">Repositório do projeto</a></li>
+ <img align="center" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="0px">
