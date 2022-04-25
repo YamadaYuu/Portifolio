@@ -64,6 +64,9 @@ Hibernate: Persistência de dados do banco.</p>
  <li><a href="https://github.com/giovannialves01/API-RGBA">Repositório do projeto</a></li>
 
 ### 2021/2º Semestre - AirplaneDocGenerator
-Mesmo formato
+ 
+ <li><a href="https://github.com/Syank/AirplaneDocGenerator">Repositório do projeto</a></li>
 
 ### 2022/1º Semestre - FolConn
+
+ <li><a href="https://github.com/barbaraport/api-claradb">Repositório do projeto</a></li>
