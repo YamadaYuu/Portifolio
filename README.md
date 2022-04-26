@@ -7,6 +7,10 @@
 <p align="justify">Formada no ensino técnico em Automação Industrial na ETEC em 2014, ingressei em Engenharia da Computação em 2016 na ETEP. O ensino técnico me proporcionou conhecimentos básicos na programação em projetos com arduíno. Nessa época já mexia com css e um pouco de html por hobbie, criando styles para sites. Em 2017, participei da equipe de Baja da ETEP. Nós tínhamos a estrutura e toda a documentação pronta, mas não chegamos a terminar a montagem do veículo para competir por questões pessoais.</p>
 
 <p align="justify">Entre 2018 e 2019, estagiei por nove meses na empresa Compsis. Durante esse estágio, comecei a analizar e testar códigos em java, javascript e html. Vi também frameworks como spring e vue.js. Tive a oportunidade de fazer um curso de Java com Spring na plataforma alura, pago pela empresa.  Entrei na FATEC no primeiro semestre de 2020 e tenho participado do desenvolvimento de vários projetos desde então.</p>
+ 
+#### Contato
+- Email: yamada.yu@outlook.com
+- Linkedin: https://www.linkedin.com/in/anna-yukimi-yamada-6ba23b149/
 
 ## Meus Projetos
 
@@ -46,7 +50,7 @@
 - Hibernate: Persistência de dados do banco.
 
 #### Contribuições Pessoais
-<p align="justify">Participei de parte do front-end e design do aplicativo, onde gerei os wireframes no figma à partir de vários designs feitos e discutidos em reunião com o grupo. Fiz parte das telasjuntamente com redirecionamento de todas as páginas e modelagem do banco de dados. Houve várias mudanças no modelo do banco de dados à medida que funções eram adicionadas ao sistema. Encontrei um recurso melhor que o do semestre anterior e consegui resultados mais satisfatórios na produção de gifs e vídeo de apresentação.</p>
+<p align="justify">Participei de parte do front-end e design do aplicativo, onde gerei os wireframes no figma à partir de vários designs feitos e discutidos em reunião com o grupo. Fiz parte das telas juntamente com o redirecionamento das páginas e modelagem do banco de dados. Houve várias mudanças no modelo do banco de dados à medida que funções eram adicionadas ao sistema. Encontrei um recurso melhor que o do semestre anterior e consegui resultados mais satisfatórios na produção de gifs e vídeo de apresentação.</p>
  
 #### Hard Skills
 - Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
