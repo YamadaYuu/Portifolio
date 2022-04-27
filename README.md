@@ -1,12 +1,18 @@
 <h1>Anna Yukimi Yamada<h1>
 
 ## Introdução
-
+ 
 <p align="justify">Durante o 9º ano do ensino fundamental em um colégio da rede Objetivo, tive aulas de robótica e me interessei pela área de tecnologia. As aulas envolviam a montagem e programação dos robôs da Lego, Mindstorms.</p>
 
+ <img align="right" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Anna.png"  height="220px">
 <p align="justify">Formada no ensino técnico em Automação Industrial na ETEC em 2014, ingressei em Engenharia da Computação em 2016 na ETEP. O ensino técnico me proporcionou conhecimentos básicos na programação em projetos com arduíno. Nessa época já mexia com css e um pouco de html por hobbie, criando styles para sites. Em 2017, participei da equipe de Baja da ETEP. Nós tínhamos a estrutura e toda a documentação pronta, mas não chegamos a terminar a montagem do veículo para competir por questões pessoais.</p>
 
 <p align="justify">Entre 2018 e 2019, estagiei por nove meses na empresa Compsis. Durante esse estágio, comecei a analizar e testar códigos em java, javascript e html. Vi também frameworks como spring e vue.js. Tive a oportunidade de fazer um curso de Java com Spring na plataforma alura, pago pela empresa.  Entrei na FATEC no primeiro semestre de 2020 e tenho participado do desenvolvimento de vários projetos desde então.</p>
+
+#### Principais Conhecimentos
+<p><img src="https://img.shields.io/badge/3_anos-Java-2fe">
+ <img src="https://img.shields.io/badge/3%20anos-HTML-2fe">
+ <img src="https://img.shields.io/badge/6%20anos-CSS-2fe"></p>
  
 #### Contato
 - Email: yamada.yu@outlook.com
@@ -39,8 +45,8 @@
 ### 2020/2º Semestre - RoadTracker
 <p align="justify">No segundo semestre, tivemos como cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.</p>
 <p align="justify">O problema reportado era a falta de controle da jornada dos motoristas de caminhão. Não havia como saber o paradeiro da mercadoria até que esta chegasse ao seu destino. Para melhorar esse controle, criamos um aplicativo para computador de bordo. Nele, o motorista pode iniciar sua jornada e manter os superiores atualizados sobre sua viagem de forma prática e rápida.</p>
-<p align="justify"></p>
- 
+
+ <img src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/WF2.jpg"  height="550px">
  <li><a href="https://github.com/Syank/PI-JornadaDeMotoristas">Repositório do projeto</a></li>
  
 #### Tecnologias Utilizadas
@@ -64,6 +70,7 @@
 ### 2021/1º Semestre - SkillShare
 <p align="justify">Neste semestre, a empresa parceira foi a Ness Health. Um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores. O problema relatado foi que, apesar de existirem muitas plataformas de ensino on-line, elas são pagas, removendo assim o direito à educação de todos.</p>
 <p align="justify">A solução proposta foi o desenvolvimento de um LMS (Learning Management System) gratuito para os funcionários matriculados, no intuito de democratizar a educação.</p>
+ <img src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/WF3.png"  height="400px">
  
 #### Tecnologias Utilizadas
  
@@ -76,4 +83,3 @@
 ### 2022/1º Semestre - FolConn
 
  <li><a href="https://github.com/barbaraport/api-claradb">Repositório do projeto</a></li>
- <img align="center" src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/Code%20aquecedor.png"  height="0px">
