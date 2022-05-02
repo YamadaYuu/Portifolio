@@ -88,7 +88,7 @@
 - PostgreSQL: Sei mexer com autonomia.
 
 #### Soft Skills
-- Organização: A equipe desse semestre ficou maior por fatores externos, causando alguns problemas como falta de atividades compatíveis com o nível de conhecimento de cada um. Por algumas vezes, precisei dividir atividades com 
+- Trabalho em equipe: Nesse semestre o número de pessoas aumentou por fatores externos, causando alguns problemas como falta de atividades compatíveis com o nível de conhecimento de cada um. Por algumas vezes, precisei dividir atividades mais simples com outras pessoas para que ninguém ficasse sem nada para fazer ou ao menos pudesse ter seu nome em um commit.
 
 ### 2021/2º Semestre - AirplaneDocGenerator
  
