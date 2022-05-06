@@ -64,7 +64,7 @@
 - PostgreSQL: Sei mexer com ajuda.
 
 #### Soft Skills
-- Comunicação: Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o desenvolvimento do projeto.
+- <p align="justify">Comunicação: Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o desenvolvimento do projeto.</p>
  
 ### 2021/1º Semestre - SkillShare
 <p align="justify">Neste semestre, a empresa parceira foi a Ness Health. Um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores. O problema relatado foi que, apesar de existirem muitas plataformas de ensino on-line, elas são pagas, removendo assim o direito à educação de todos.</p>
@@ -88,9 +88,11 @@
 - PostgreSQL: Sei mexer com autonomia.
 
 #### Soft Skills
-- Trabalho em equipe: Nesse semestre o número de pessoas aumentou por fatores externos, causando alguns problemas como falta de atividades compatíveis com o nível de conhecimento de cada um. Por algumas vezes, precisei dividir atividades mais simples com outras pessoas para que ninguém ficasse sem nada para fazer ou ao menos pudesse ter seu nome em um commit.
+- <p align="justify">Trabalho em equipe: Nesse semestre o número de pessoas aumentou por fatores externos, causando alguns problemas como falta de atividades compatíveis com o nível de conhecimento de cada um. Por algumas vezes, precisei dividir atividades mais simples com outras pessoas para que ninguém ficasse sem nada para fazer ou ao menos pudesse ter seu nome em um commit.</p>
 
 ### 2021/2º Semestre - AirplaneDocGenerator
+<p align="justify">A empresa parceira Embraer, fundada em 1969, é atualmente uma das maiores companhias de jatos comerciais do mundo, atuando na aviação comercial, executiva, defesa e segurança. O desafio partiu da necessidade de agilizar a geração de manuais para aeronaves. A forma de geração anterior gastava muito tempo pois há várias revisões e versões.</p>
+<p align="justify">A propósta foi uma plataforma intuitiva que facilita a visualização, listagem e montagem desses manuais.</p>
  
  <li><a href="https://github.com/Syank/AirplaneDocGenerator">Repositório do projeto</a></li>
 
