@@ -50,10 +50,9 @@
  <li><a href="https://github.com/Syank/PI-JornadaDeMotoristas">Repositório do projeto</a></li>
  
 #### Tecnologias Utilizadas
-- Java
-- JavaFX com SceneBuilder
-- PostgreSQL
-- Hibernate
+- Java:Controller e Model (back-end) do projeto.
+- JavaFX com SceneBuilder: View, html modelado visualmente.
+- PostgreSQL: Armazena todos os dados do usuário e para usuário motorista, suas viagens.
 
 #### Contribuições Pessoais
 <p align="justify">Participei de parte do front-end e design do aplicativo, onde gerei os wireframes no figma à partir de vários designs feitos e discutidos em reunião com o grupo. Fiz parte das telas juntamente com o redirecionamento das páginas e modelagem do banco de dados. Houve várias mudanças no modelo do banco de dados à medida que funções eram adicionadas ao sistema. Encontrei um recurso melhor que o do semestre anterior e consegui resultados mais satisfatórios na produção de gifs e vídeo de apresentação.</p>
@@ -74,10 +73,10 @@
 <li><a href="https://github.com/giovannialves01/API-RGBA">Repositório do projeto</a></li>
  
 #### Tecnologias Utilizadas
-- Java
-- Spring
-- JavaScript
-- HTML
+- Java: Controllers para comunicação com banco de dados e outras telas.
+- JavaScript: Componentes comuns à todas ou várias telas.
+- HTML: Telas utilizando os componentes do javascript.
+- PostgreSQL: Armazenamento do usuário, suas informações, cursos e documentos do sistema.
 
 #### Contribuições Pessoais
 <p align="justify">Criei as telas de notícias e de listagem de turmas, fazendo a filtragem destas por curso. Participei do controle de burndown e, com um script de ações para seguir, gravei e editei os videos do sistema. O mesmo aplicativo do semestre anterior, clipchamp, foi utilizado para a edição dos videos/gifs. Como requisito de Gestão de Projetos, cursado por parte dos integrantes da equipe, montamos o canvas em reunião. </p>
@@ -95,6 +94,20 @@
 <p align="justify">A propósta foi uma plataforma intuitiva que facilita a visualização, listagem e montagem desses manuais.</p>
  
  <li><a href="https://github.com/Syank/AirplaneDocGenerator">Repositório do projeto</a></li>
+ 
+ #### Tecnologias Utilizadas
+- Java: Parte do servidor, comunicação com o banco de dados.
+- JavaScript: Interface do usuário.
+- PostgreSQL: Armazenamento dos dados enviados pelo servidor.
+
+#### Contribuições Pessoais
+<p align="justify"></p>
+
+#### Hard Skills
+
+
+#### Soft Skills
+- <p align="justify"></p>
 
 ### 2022/1º Semestre - FolConn
 
