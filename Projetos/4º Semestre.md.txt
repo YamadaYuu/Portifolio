@@ -1,0 +1,20 @@
+
+
+### 2021/2º Semestre - AirplaneDocGenerator
+<p align="justify">A empresa parceira Embraer, fundada em 1969, é atualmente uma das maiores companhias de jatos comerciais do mundo, atuando na aviação comercial, executiva, defesa e segurança. O desafio partiu da necessidade de agilizar a geração de manuais para aeronaves. A forma de geração anterior gastava muito tempo pois há várias revisões e versões.</p>
+<p align="justify">A propósta foi uma plataforma intuitiva que facilita a visualização, listagem e montagem desses manuais.</p>
+ 
+ <li><a href="https://github.com/Syank/AirplaneDocGenerator">Repositório do projeto</a></li>
+ 
+ #### Tecnologias Utilizadas
+- Java: Parte do servidor, comunicação com o banco de dados.
+- JavaScript: Interface do usuário.
+- PostgreSQL: Armazenamento dos dados enviados pelo servidor.
+
+#### Contribuições Pessoais
+<p align="justify"></p>
+
+#### Hard Skills
+
+#### Soft Skills
+- <p align="justify"></p>
