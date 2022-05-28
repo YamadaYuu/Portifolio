@@ -20,9 +20,9 @@
 
 ## Meus Projetos
  
-- <li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/1º-Semestre.md">1º Semestre</a></li>
-- <li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/2º-Semestre.md">2º Semestre</a></li>
-- <li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/3º-Semestre.md">3º Semestre</a></li>
-- <li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/4º-Semestre.md">4º Semestre</a></li>
-- <li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/5º-Semestre.md">5º Semestre</a></li>
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/1%C2%BA%20Semestre.md">1º Semestre</a></li>
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/2%C2%BA%20Semestre.md">2º Semestre</a></li>
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/3%C2%BA%20Semestre.md">3º Semestre</a></li>
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/4%C2%BA%20Semestre.md">4º Semestre</a></li>
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/5%C2%BA%20Semestre.md">5º Semestre</a></li>
 
