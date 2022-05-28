@@ -1,4 +1,4 @@
-### 2021/1º Semestre - SkillShare
+### 2021/1º Semestre - Skill### 2021/1º Semestre - SkillShare
 <p align="justify">Neste semestre, a empresa parceira foi a Ness Health. Um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores. O problema relatado foi que, apesar de existirem muitas plataformas de ensino on-line, elas são pagas, removendo assim o direito à educação de todos.</p>
 <p align="justify">A solução proposta foi o desenvolvimento de um LMS (Learning Management System) gratuito para os funcionários matriculados, no intuito de democratizar a educação.</p>
 <img src="https://github.com/YamadaYuu/Portifolio/blob/main/Images/WF3.png"  height="500px">

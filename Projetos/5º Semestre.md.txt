@@ -1,3 +1,0 @@
-### 2022/1º Semestre - FolConn
-
- <li><a href="https://github.com/barbaraport/api-claradb">Repositório do projeto</a></li>
