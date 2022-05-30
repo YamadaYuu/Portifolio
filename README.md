@@ -16,7 +16,7 @@
  
 #### Contato
 - Email: yamada.yu@outlook.com
-- Linkedin: https://www.linkedin.com/in/anna-yukimi-yamada-6ba23b149/
+- <a href="https://www.linkedin.com/in/anna-yukimi-yamada-6ba23b149/">Linkedin</a>
 
 ## Meus Projetos
  
