@@ -10,9 +10,12 @@
 - PostgreSQL: Armazenamento dos dados enviados pelo servidor.
 
 #### Contribuições Pessoais
-<p align="justify"></p>
+<p align="justify">Personalização do scroll, mensagem de erro, documentação (wireframes, slides, vídeo). Como estive em outra equipe para a primeira sprint, elaborei as telas de gerenciamento e upload de projetos a partir do modelo em uso. Nesses projeto, criei funções simples de java como maximização e desmaximização de tela. Outras atividades foram referentes ao css das telas, como formato, sombreamento e cor dos componentes das novas telas.</p>
 
 #### Hard Skills
+- Java: Aprimorei meu conhecimento na linguagem. 
+- JavaScript: Aprimorei meu conhecimento na linguagem. 
+- PostgreSQL: Sei mexer com autonomia.
 
 #### Soft Skills
-- <p align="justify"></p>
+- <p align="justify">Entendi que demissões são necessárias e ajudam para o desenvolvimento tanto da equipe quanto individual. Após ingressar na segunda sprint em uma nova equipe, consegui entender melhor sobre a proposta do projeto.</p>
