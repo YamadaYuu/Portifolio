@@ -7,6 +7,8 @@
  #### Tecnologias Utilizadas
 - Java: Parte do servidor, comunicação com o banco de dados.
 - JavaScript: Interface do usuário.
+- Electron: Integração para aplicativo desktop com JavaScript.
+- Html: Criação das páginas.
 - PostgreSQL: Armazenamento dos dados enviados pelo servidor.
 
 #### Contribuições Pessoais
@@ -14,7 +16,7 @@
 
 #### Hard Skills
 - Java: Aprimorei meu conhecimento na linguagem. 
-- JavaScript: Aprimorei meu conhecimento na linguagem. 
+- JavaScript: Consigo criar páginas web responsivas com ajuda.
 - PostgreSQL: Sei mexer com autonomia.
 
 #### Soft Skills
