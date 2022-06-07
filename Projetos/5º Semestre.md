@@ -10,8 +10,11 @@
 - MongoDB: Banco de dados NoSql para armazenamento dos dados tanto do usuário mobile quanto web.
 
 #### Contribuições Pessoais
-<p align="justify"></p>
+<p align="justify">Wireframes, combinação de cores e estilização das telas (css). Documentação e revisão (Readme e arquivos de mídia).</p>
 
 #### Hard Skills
+- TypeScript: Consigo fazer com ajuda.
+- MongoDB: Entendo os conceitos.
 
 #### Soft Skills
+<p align="justify"></p>
