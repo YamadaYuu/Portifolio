@@ -20,4 +20,4 @@
 - PostgreSQL: Sei mexer com autonomia.
 
 #### Soft Skills
-- <p align="justify">Entendi que demissões são necessárias e ajudam para o desenvolvimento tanto da equipe quanto individual. Após ingressar na segunda sprint em uma nova equipe, consegui entender melhor sobre a proposta do projeto.</p>
+- <p align="justify">Entendi que demissões são necessárias e ajudam para o desenvolvimento tanto da equipe quanto individual. Após realizar auto-demissão e ingressar na segunda sprint em uma nova equipe, consegui entender melhor sobre a proposta do projeto.</p>
