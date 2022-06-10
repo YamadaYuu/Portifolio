@@ -22,4 +22,4 @@
 - MongoDB: Entendo os conceitos.
 
 #### Soft Skills
-<p align="justify"></p>
+<p align="justify">Transparência: Em todo ambiente com relações interpessoais precisa de diálogo. Quando uma das partes não estava satisfeita com o comportamento de outras, todos fomos mais transparentes uns com os outros para podermos tentar melhorar a nós mesmos.</p>
