@@ -31,4 +31,4 @@
 <li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/5%C2%BA%20Semestre.md">5º Semestre</a></li>
 <p align="justify">Equipe ClaraDB: Projeto FolConn. Aplicativo mobile e web para que os clientes possam ser notificados e visualizar atualizações de documentos referentes a seus veículos.</p>
 <li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/Projetos/6%C2%BA%20Semestre.md">6º Semestre</a></li>
-<p align="justify">Equipe Softteliê: Projeto ehSoja. Melhorias dentro do aplicativo eSoja para identificação de plantas e vagens de soja em imagens-</p>
+<p align="justify">Equipe Softteliê: Projeto ehSoja. Melhorias dentro do aplicativo eSoja para identificação de grãos e vagens de soja em imagens.</p>
