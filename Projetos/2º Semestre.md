@@ -20,4 +20,6 @@
 
 #### Soft Skills
 - <p align="justify">Comunicação: Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o desenvolvimento do projeto.</p>
+
+ <li><a href=" https://github.com/YamadaYuu/Portifolio/blob/main/README.md">Retornar à página principal</a></li>
  
