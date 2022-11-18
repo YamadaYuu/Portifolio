@@ -20,3 +20,6 @@
 - <p align="justify">Liderança: Como master, melhorei minhas habilidades de gerenciamento de grupo. Além de balancear as tarefas com o conhecimento técnico de cada integrante do grupo, também precisei entender as dificuldades de cada integrante para que conseguissem se envolver mais no projeto.</p>
 - <p align="justify">Empatia: Em um determinado momento, como estávamos em período de pandemia, cheguei a conversar com o pai de um dos integrantes para explicar sobre o projeto e pedir que auxiliasse a pessoa em suas atividades.</p>
 
+
+
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/README.md">Retornar à página principal</a></li>
