@@ -20,3 +20,6 @@
 
 #### Soft Skills
 <p align="justify">Comprometimento: Com a nova distribuição de pontos, cada um precisa mostrar que está fazendo sua parte e contribuindo para que todos os integrantes estejam cientes do que cada um está realmente fazendo.</p>
+
+
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/README.md">Retornar à página principal</a></li>
