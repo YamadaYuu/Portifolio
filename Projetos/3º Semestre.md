@@ -22,3 +22,5 @@
 #### Soft Skills
 - <p align="justify">Cooperatividade: Nesse semestre o número de pessoas aumentou por fatores externos, causando alguns problemas como falta de atividades compatíveis com o nível de conhecimento de cada um. Por algumas vezes, precisei dividir atividades mais simples com outras pessoas para que ninguém ficasse sem nada para fazer ou ao menos pudesse ter seu nome em um commit.</p>
 - <p align="justify">Transparência: Por conta de uma grande com discrepância de hard e soft skills, a equipe acabou dividida entre aqueles que muito faziam e os que pouco faziam. Por algumas vezes, alguém pegava uma atividade que outro integrante pediu ajuda e fazia sozinha apenas pelo fato de conseguir fazer mais rápido do que explicar à pessoa. Na minha visão, o melhor a se fazer foi falar com a pessoa, além reportar esses acontecimentos para que outros interantes estivesse cientes na hora de avaliar uns aos outros.</p>
+
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/README.md">Retornar à página principal</a></li>
