@@ -22,4 +22,7 @@
 - PostgreSQL: Sei mexer com autonomia.
 
 #### Soft Skills
-- <p align="justify">Entendi que demissões são necessárias e ajudam para o desenvolvimento tanto da equipe quanto individual. Após realizar auto-demissão e ingressar na segunda sprint em uma nova equipe, consegui entender melhor sobre a proposta do projeto.</p>
+- <p align="justify">Visão: Entendi que demissões são necessárias e ajudam para o desenvolvimento tanto da equipe quanto individual. Após realizar auto-demissão e ingressar na segunda sprint em uma nova equipe, consegui entender melhor sobre a proposta do projeto.</p>
+- <p align="justify">Profissionalismo: Tive desentendimentos no grupo em que estive na primeira sprint mesmo depois de ter saído. Fora do contexto de faculdade, mantenho amizade normal com alguns dos integrantes, mas com quem é possível tabalhar junto ou não.</p>
+
+<li><a href="https://github.com/YamadaYuu/Portifolio/blob/main/README.md">Retornar à página principal</a></li>
