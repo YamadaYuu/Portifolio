@@ -3,6 +3,8 @@
 <p align="justify">Criada em 2012, a empresa parceira Visiona Tecnologia Espacial é uma <i>joint-venture</i> entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais. O desafio era a melhoria do eSoja, um aplicativo desenvido em outro semestre. Para isso, era necessária a adição de inteligência artificial no sistema.</p> 
 <p align="justify">A partir desse desafio, criamos o ehSoja, um módulo que permite ao usuário tirar fotos de plantas de soja dentro do próprio aplicativo e por meio desta, monitorar, controlar e obter estimativas de colheita e plantio. </p>
 
+<img src="https://github.com/barbaraport/softtelie-ehsoja/blob/main/docs/Mockups/after/registro.png"  height="500px">
+
 <li><a href="https://github.com/barbaraport/softtelie-ehsoja">Repositório do projeto</a></li>
 
 #### Tecnologias Utilizadas
