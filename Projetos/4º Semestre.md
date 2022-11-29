@@ -1,6 +1,6 @@
 ### 2021/2º Semestre - AirplaneDocGenerator
 <p align="justify">A empresa parceira Embraer, fundada em 1969, é atualmente uma das maiores companhias de jatos comerciais do mundo, atuando na aviação comercial, executiva, defesa e segurança. O desafio partiu da necessidade de agilizar a geração de manuais para aeronaves. A forma de geração anterior gastava muito tempo pois há várias revisões e versões.</p>
-<p align="justify">A propósta foi uma plataforma intuitiva que facilita a visualização, listagem e montagem desses manuais.</p>
+<p align="justify">A propósta foi uma plataforma intuitiva que facilita a visualização, listagem e montagem desses manuais. Cada manual possui vários arquivos que o compõem para formar cada uma das três variações com duas versões (FULL e DELTA) cada.</p>
 
 <img src="https://raw.githubusercontent.com/Syank/AirplaneDocGenerator/sprint-3/doc/mockups/sprint%202/GerirManual.png">
  
